@@ -1,0 +1,10 @@
+A simple jQuery console
+=======================
+
+dependencies: jQuery and jQueryUI
+
+usage:
+ $.console.create();
+ $.console.log('A message');
+ $.console.dump(new Date());
+
